@@ -13,11 +13,6 @@
      http://www.springframework.org/schema/context/spring-context-3.0.xsd          
      http://www.springframework.org/schema/aop         
      http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
-     
-     
-     
-     
-     
 <!--  if use xml file then this should be enabled   if u use config class by using annotation then no need use xml file-->
 <!--  if you use annotation  aop:aspectj-autoproxy is used   if use xml no need of using aop  -->
 	<!--  <aop:aspectj-autoproxy />  -->
